@@ -13,4 +13,4 @@ public class ReverseString {
         StringBuilder reversedString = new StringBuilder(str);
         return reversedString.reverse().toString();
     }
-}
+
